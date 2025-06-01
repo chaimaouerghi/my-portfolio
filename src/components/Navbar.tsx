@@ -4,7 +4,8 @@ const Navbar: React.FC = () => {
   return (
     <nav className="nav-container">
       <div className="logo">
-        <Link href="/">Chaima's Portfolio</Link>
+   <Link href="/">Chaima&apos;s Portfolio</Link>
+
       </div>
       
     </nav>

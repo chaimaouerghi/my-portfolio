@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
         alt="Chaima's personal headshot"
       />
       <div className="hero-text">
-        <h1>Hey, I'm Chaima 👋</h1>
+        <h1>Hey, I&apos;m Chaima 👋</h1>
         <p>
           I'm a software developer . I specialize in building (and occasionally designing)
           exceptional websites, applications, and everything in between.
